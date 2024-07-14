@@ -1,7 +1,7 @@
 age = int(input("Enter age: "))
 
-name = "18r"
+name = "Naman"
 
-surname = "18r"
+surname = "Khurana"
 
 
